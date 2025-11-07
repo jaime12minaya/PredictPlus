@@ -223,11 +223,11 @@ Contributions welcome! Areas of particular interest:
 
 ## Citation
 
-If you use Predict+ in your research or analysis, please cite:
+If you use Predict+ in your research or analysis, please cite (APA):
 
 ```
-Predict+: Measuring Pitcher Unpredictability Through Machine Learning
-https://github.com/[your-username]/pitch-ppi
+McGovern, Conor. (2025). Predict+: R Model Measuring Pitcher Unpredictability.
+https://github.com/comcgovern/PredictPlus/
 ```
 
 ## License
