@@ -29,6 +29,8 @@ Unpredictability appears to matter most when:
 - Facing the same batter multiple times (starters)
 - In high-leverage situations (relievers)
 
+![Predict+ vs SwStr%](!https://pasteboard.co/OC2NRy7eg3mF.png)
+
 ## Quick Start
 
 ### Installation
