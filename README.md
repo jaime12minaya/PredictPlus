@@ -258,6 +258,7 @@ Commercial use requires licensing. This means:
 - sabRmetrics package for data access infrastructure
 - The baseball analytics community for inspiration, particularly the developers of the various Stuff and Pitching models
 - The Dynasty Dugout discord and Chris Clegg for putting together a tremendous community
+- Anthropic's Claude AI for checking and correcting my code and extremely helpful commenting and organizing of the code, which I am far too lazy to do well on my own
 
 ---
 
