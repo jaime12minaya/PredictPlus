@@ -226,8 +226,8 @@ Contributions welcome! Areas of particular interest:
 If you use Predict+ in your research or analysis, please cite (APA):
 
 ```
-McGovern, Conor. (2025). *Predict+: R Model Measuring Pitcher Unpredictability*. GitHub.
-https://doi.org/10.5281/zenodo.17553074
+McGovern, C. (2025). Predict+: Measuring MLB and AAA pitcher unpredictability in R through machine learning analysis of pitch selection (Version 1.0.0)
+[Computer software]. https://doi.org/10.5281/zenodo.17553074
 ```
 
 ## License
