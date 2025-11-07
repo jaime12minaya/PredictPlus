@@ -6,7 +6,7 @@ I’m talking, of course, about guessing the next pitch that gets thrown. Whethe
 
 This sequence of events (and my temporary idleness in the wake of the October 2025 government shutdown that left me furloughed from my day job as a child nutrition researcher) led to an investigation of whether certain pitchers were more predictable in their selection in any given situation than others.
 
-**Predict+** quantifies how unpredictable a pitcher's pitch selection is by comparing machine learning predictions against actual pitch choices. Higher scores indicate pitchers who successfully defy pattern recognition — even when sophisticated models know their history, tendencies, and game situation. The model is created in R.
+**Predict+** is an R script that quantifies how unpredictable a pitcher's pitch selection is by comparing machine learning predictions against actual pitch choices. Higher scores indicate pitchers who successfully defy pattern recognition — even when sophisticated models know their history, tendencies, and game situation.
 
 ## What It Measures
 
