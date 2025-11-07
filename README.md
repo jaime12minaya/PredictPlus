@@ -4,7 +4,7 @@ If you’re anything like me – which, if you’re looking at a GitHub reposito
 
 I’m talking, of course, about guessing the next pitch that gets thrown. Whether you’re doing it out loud (and, like me, annoying your kids, spouse, or friends) or just in your head, guessing that next pitch is as much a part of the routine as singing “Take Me Out to the Ballgame” in the middle of the seventh.
 
-This sequence of events (and my temporary idleness in the wake of the October 2025 government shutdown that left me furloughed from my day job as a child nutrition researcher) led to an investigation of whether certain pitchers were more predictable in their selection in any given situation than others.
+This sequence of events (and my temporary idleness in the wake of the October 2025 government shutdown that left me furloughed from my day job) led to an investigation of whether certain pitchers were more predictable in their selection in any given situation than others.
 
 **Predict+** is an R script that quantifies how unpredictable a pitcher's pitch selection is by comparing machine learning predictions against actual pitch choices. Higher scores indicate pitchers who successfully defy pattern recognition — even when sophisticated models know their history, tendencies, and game situation.
 
