@@ -240,8 +240,8 @@ Non-commercial use is encouraged! This means:
 - Fantasy sports and hobbyist analysis
 
 ### For Professional Organizations
-Including MLB/MiLB teams, international professional leagues, sports betting companies, and commercial scouting services.
-Contact comcgovern@gmail.com for commercial licensing.
+Including MLB/MiLB teams, international professional leagues, sports betting companies, and commercial scouting services who want to modify the source code without making it open source as required under GPL-3.
+Contact [Conor McGovern](mailto:comcgovern@gmail.com) for commercial licensing.
 
 Commercial use requires licensing. This means:
 - Professional team scouting departments
