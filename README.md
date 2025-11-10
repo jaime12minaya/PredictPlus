@@ -1,4 +1,4 @@
-⚾ # Predict+
+# ⚾ Predict+
 
 If you’re anything like me – which, if you’re looking at a GitHub repository for a new sabermetric model, I have to assume you are – then you have a particular tic that comes out when you're watching a baseball game. It probably happens so often and so automatically that you fail to register it, thinking it’s something everyone does, but I'm told that it's not.
 
