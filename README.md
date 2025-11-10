@@ -1,4 +1,4 @@
-# Predict+
+⚾ # Predict+
 
 If you’re anything like me – which, if you’re looking at a GitHub repository for a new sabermetric model, I have to assume you are – then you have a particular tic that comes out when you're watching a baseball game. It probably happens so often and so automatically that you fail to register it, thinking it’s something everyone does, but I'm told that it's not.
 
@@ -18,6 +18,8 @@ The metric is **scaled to 100 (league average) with a standard deviation of 10**
 - **110 or higher: Highly unpredictable** — consistently defies pattern recognition
 - **100: League average** — predictable in typical ways  
 - **90 or lower: Highly predictable** — follows recognizable patterns
+
+🧢 ![**See the 2025 regular season data here!**](https://public.tableau.com/app/profile/mcgov36/viz/Predict2025/SingleDash)
 
 ## Why It Matters
 
